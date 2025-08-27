@@ -1,0 +1,32 @@
+﻿Type,Material,kcal/mol,kJ/mol,eV,ref,species,habitat,clade,kcal/mol,A (s-1),,k @Tiso,k (in time),RT,exp_term
+Protein,Human serum albumin,,100.416,,He & Bischof  2003,,,,,,,,,,
+Protein,Human serum albumin,,99.9976,,He & Bischof  2003,,,,,,,,,,
+Protein,Insulin,,146.0216,,He & Bischof  2003,,,,,4.20E+17,,1.46E-06,6.85E+05,2703.2971,54.0161124
+Protein,Pepsin,,230.12,,He & Bischof  2003,,,,,1.20E+37,,1.29E+00,7.77E-01,2703.2971,85.12567856
+Protein,Leucosin,,349.7824,,He & Bischof  2003,,,,,5.90E+52,,3.78E-04,2.65E+03,2703.2971,129.3910314
+Protein,Egg albumin,,549.7776,,He & Bischof  2003,,,,,2.00E+81,,9.49E-08,1.05E+07,2703.2971,203.3729848
+Protein,Hemoglobin,,313.3816,,He & Bischof  2003,,,,,5.40E+54,,2.44E+04,4.11E-05,2703.2971,115.9256968
+Protein,Trypsin,,165.6864,,He & Bischof  2003,,,,,1.40E+22,,3.37E-05,2.96E+04,2703.2971,61.29048857
+Protein,Enterokinase,,174.0544,,He & Bischof  2003,,,,,8.30E+23,,9.05E-05,1.11E+04,2703.2971,64.38596779
+Protein,Trypsin kinase,,182.8408,,He & Bischof  2003,,,,,9.20E+24,,3.89E-05,2.57E+04,2703.2971,67.63622097
+Protein,Pancreatic proteinase,,156.0632,,He & Bischof  2003,,,,,1.80E+21,,1.52E-04,6.56E+03,2703.2971,57.73068746
+Protein,Pancreatic lipase,,187.4432,,He & Bischof  2003,,,,,1.90E+27,,1.46E-03,6.83E+02,2703.2971,69.33873454
+Protein,Hemolysin,,825.9216,,He & Bischof  2003,,,,,3.90E+129,,8.01E-04,1.25E+03,2703.2971,305.5237991
+Protein,Vibriolusin,,533.0416,,He & Bischof  2003,,,,,3.50E+83,,8.11E-03,1.23E+02,2703.2971,197.1820263
+Protein,Tetanolysin,,719.648,,He & Bischof  2003,,,,,3.70E+112,,9.00E-04,1.11E+03,2703.2971,266.211213
+Protein,Peroxidase (milk),,772.3664,,He & Bischof  2003,,,,,1.60E+114,,1.32E-10,7.57E+09,2703.2971,285.7127321
+Protein,Rennin,,371.5392,,He & Bischof  2003,,,,,6.40E+57,,1.31E-02,7.64E+01,2703.2971,137.4392774
+Protein,Amylase (malt),,171.1256,,He & Bischof  2003,,,,,6.60E+23,,2.13E-04,4.70E+03,2703.2971,63.30255006
+Protein,Invertase (yeast),,216.7312,,He & Bischof  2003,,,,,7.60E+30,,1.15E-04,8.67E+03,2703.2971,80.17291181
+Protein,Invertase (yeast),,459.4032,,He & Bischof  2003,,,,,5.90E+52,,9.25E-22,1.08E+21,2703.2971,169.9418092
+Protein,Invertase (yeast),,358.5688,,He & Bischof  2003,,,,,4.90E+69,,1.22E+12,8.23E-13,2703.2971,132.6412846
+Protein,Invertase (yeast),,308.3608,,He & Bischof  2003,,,,,4.60E+69,,1.33E+20,7.53E-21,2703.2971,114.0684093
+Protein,Emulsin (wet),,184.9328,,He & Bischof  2003,,,,,4.50E+26,,8.77E-04,1.14E+03,2703.2971,68.41009077
+Protein,Emulsin (dry),,104.1816,,He & Bischof  2003,,,,,5.50E+10,,1.01E-06,9.93E+05,2703.2971,38.5387163
+Protein,Lipase,,97.9056,,He & Bischof  2003,,,,,4.40E+09,,8.21E-07,1.22E+06,2703.2971,36.21710688
+Protein,Ribonuclease,,238.488,,He & Bischof  2003,,,,,,,,,,
+Protein,Chymotrypsinogen,,163.176,,He & Bischof  2003,,,,,,,,,,
+Protein,Chymotrypsinogen,,175.728,,He & Bischof  2003,,,,,,,,,,
+Protein,DNA polymerase α,,430.952,,He & Bischof  2003,,,,,,,,,,
+Protein,DNA polymerase β,,598.312,,He & Bischof  2003,,,,,,,,,,
+Protein,GAPDH,,460.24,,He & Bischof  2003,,,,,,,,,,
