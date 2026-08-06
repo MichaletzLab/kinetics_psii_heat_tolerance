@@ -1,0 +1,54 @@
+﻿ea_kJ_mol,ln_a_s-1,type,material
+22.5936,NA,Lipid bilayer,Phospholipid DMPC
+36.4008,NA,Lipid bilayer,Phospholipid DPPC
+44.3504,NA,Lipid bilayer,Phospholipid DSPC
+96,NA,Lipid bilayer,Trp-NH2
+80,NA,Lipid bilayer,Ac-Trp-NH2
+88,NA,Lipid bilayer,serotonin
+71,NA,Lipid bilayer,tryptamine
+28,NA,Lipid bilayer,Trp-OMe
+100,NA,Lipid bilayer,Trp-NH2
+100,NA,Lipid bilayer,Ac-Trp-NH2
+84,NA,Lipid bilayer,serotonin
+50,NA,Lipid bilayer,tryptamine
+59,NA,Lipid bilayer,Trp-Ome
+47,NA,Lipid bilayer,Trp-NH2
+49,NA,Lipid bilayer,Ac-Trp-NH2
+19,NA,Lipid bilayer,tryptamine
+61.92062991,NA,Lipid bilayer,C80-PP/DOPC mixture
+74.67233675,NA,Lipid bilayer,C80-PP/DOPC mixture
+73.06234323,NA,Lipid bilayer,C80-PP/DOPC mixture
+83.40337879,NA,Lipid bilayer,C80-PP/DOPC mixture
+44.51834748,NA,Lipid bilayer,C80-PP/DOPC mixture
+32.9573581,NA,Lipid bilayer,C80-PP/DOPC mixture
+100.416,NA,Protein,Human serum albumin
+99.9976,NA,Protein,Human serum albumin
+146.0216,40.57903111,Protein,Insulin
+230.12,85.37797,Protein,Pepsin
+349.7824,121.5093772,Protein,Leucosin
+549.7776,187.2025397,Protein,Egg albumin
+313.3816,126.025994,Protein,Hemoglobin
+165.6864,50.99334428,Protein,Trypsin
+174.0544,55.07571265,Protein,Enterokinase
+182.8408,57.48124572,Protein,Trypsin kinase
+156.0632,48.94207362,Protein,Pancreatic proteinase
+187.4432,62.8116514,Protein,Pancreatic lipase
+825.9216,298.3944535,Protein,Hemolysin
+533.0416,192.3673257,Protein,Vibriolusin
+719.648,259.1978632,Protein,Tetanolysin
+772.3664,262.9647042,Protein,Peroxidase (milk)
+371.5392,133.1036483,Protein,Rennin
+171.1256,54.84652679,Protein,Amylase (malt)
+216.7312,71.10570104,Protein,Invertase (yeast)
+459.4032,121.5093772,Protein,Invertase (yeast)
+358.5688,160.4676066,Protein,Invertase (yeast)
+308.3608,160.4044277,Protein,Invertase (yeast)
+184.9328,61.37128981,Protein,Emulsin (wet)
+104.1816,24.73059902,Protein,Emulsin (dry)
+97.9056,22.20487038,Protein,Lipase
+238.488,NA,Protein,Ribonuclease
+163.176,NA,Protein,Chymotrypsinogen
+175.728,NA,Protein,Chymotrypsinogen
+430.952,NA,Protein,DNA polymerase Î±
+598.312,NA,Protein,DNA polymerase Î²
+460.24,NA,Protein,GAPDH

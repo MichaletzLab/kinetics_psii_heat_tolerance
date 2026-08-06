@@ -1,0 +1,32 @@
+﻿Type,Material,ea_kJ_mol,reference,species,a_s-1
+Protein,Human serum albumin,100.416,He & Bischof  2003,,
+Protein,Human serum albumin,99.9976,He & Bischof  2003,,
+Protein,Insulin,146.0216,He & Bischof  2003,,4.20E+17
+Protein,Pepsin,230.12,He & Bischof  2003,,1.20E+37
+Protein,Leucosin,349.7824,He & Bischof  2003,,5.90E+52
+Protein,Egg albumin,549.7776,He & Bischof  2003,,2.00E+81
+Protein,Hemoglobin,313.3816,He & Bischof  2003,,5.40E+54
+Protein,Trypsin,165.6864,He & Bischof  2003,,1.40E+22
+Protein,Enterokinase,174.0544,He & Bischof  2003,,8.30E+23
+Protein,Trypsin kinase,182.8408,He & Bischof  2003,,9.20E+24
+Protein,Pancreatic proteinase,156.0632,He & Bischof  2003,,1.80E+21
+Protein,Pancreatic lipase,187.4432,He & Bischof  2003,,1.90E+27
+Protein,Hemolysin,825.9216,He & Bischof  2003,,3.90E+129
+Protein,Vibriolusin,533.0416,He & Bischof  2003,,3.50E+83
+Protein,Tetanolysin,719.648,He & Bischof  2003,,3.70E+112
+Protein,Peroxidase (milk),772.3664,He & Bischof  2003,,1.60E+114
+Protein,Rennin,371.5392,He & Bischof  2003,,6.40E+57
+Protein,Amylase (malt),171.1256,He & Bischof  2003,,6.60E+23
+Protein,Invertase (yeast),216.7312,He & Bischof  2003,,7.60E+30
+Protein,Invertase (yeast),459.4032,He & Bischof  2003,,5.90E+52
+Protein,Invertase (yeast),358.5688,He & Bischof  2003,,4.90E+69
+Protein,Invertase (yeast),308.3608,He & Bischof  2003,,4.60E+69
+Protein,Emulsin (wet),184.9328,He & Bischof  2003,,4.50E+26
+Protein,Emulsin (dry),104.1816,He & Bischof  2003,,5.50E+10
+Protein,Lipase,97.9056,He & Bischof  2003,,4.40E+09
+Protein,Ribonuclease,238.488,He & Bischof  2003,,
+Protein,Chymotrypsinogen,163.176,He & Bischof  2003,,
+Protein,Chymotrypsinogen,175.728,He & Bischof  2003,,
+Protein,DNA polymerase α,430.952,He & Bischof  2003,,
+Protein,DNA polymerase β,598.312,He & Bischof  2003,,
+Protein,GAPDH,460.24,He & Bischof  2003,,
